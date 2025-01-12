@@ -1,0 +1,7 @@
+streamlit
+pandas
+folium
+branca
+jinja2
+streamlit-folium
+plotly
